@@ -1,2 +1,2 @@
-# aiproject
-I developed this for my internship.
+# AI PROJECT
+DEVELOPED THIS FOR MY INTERNSHIP
